@@ -1,0 +1,3 @@
+Zadanie 1. (4 tyg.) Przygotować aplikację dekodującą informacje zawarte w nagłówku pliku dźwiękowego, w zadanym formacie -> .wav
+Pokazać atrybuty pliku (rozbiar, częstotliwość próbkowania, itp.) Następnie wyświetlić wykres widma fragmentu pliku (np. początkowe 1000 smapli)
+za pomocą szykiej transformaty fouriera (FFT)
